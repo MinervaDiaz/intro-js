@@ -3,4 +3,4 @@ var numeroB = Number(prompt("Ingresa el numeroB"))
 
 var resta = numeroA - numeroB
 
-console.log("La resta de ambos número es " + resta)
+console.log("La resta de ambos número es: " + resta)
