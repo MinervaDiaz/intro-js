@@ -3,4 +3,4 @@ var diagonalMenor = 6
 
 var areaRombo = (D*d) /2
 
-console.log("El área del rombo es: "+ areaRombo)
+console.log("El área del rombo es: ", areaRombo)
