@@ -11,3 +11,5 @@ while(i<5){
 
 //FUNCIÓN CONSOLE.LOG PARA VERIFICAR QUE LOS NÚMEROS SE AGREGARON AL ARRAY
 console.log("Contenido del arreglo:", arreglo)
+
+
