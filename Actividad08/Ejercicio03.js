@@ -10,7 +10,7 @@ function buscarPalíndromos(word){
    if(word == arrayWordRJoin){
         return 'Sí es palíndromo'
    }else{
-      return 'No es palindromo'
+      return 'No es palíndromo'
    }
 }
 

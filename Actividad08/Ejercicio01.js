@@ -3,10 +3,11 @@ Retornar true o false en caso de que una oración contenga la palabra dada, es d
 si yo mando "Hola mundo" y mando la palabra a buscar "perro" me debe retornar un false.
 En cambio si mando "mundo" entonces debe retornar true. */
 
+    var oracion = 'Hola mundo'
+    var palabra = 'perro'
 
-function texto (){
-    let oracion = 'Hola mundo'
-    let palabra = 'mundo'
+function texto (oracion, palabra){
+    
     let arreglo = oracion.split('')
     let contador = 0
     let contador2=0
@@ -35,5 +36,5 @@ function texto (){
     } 
     return resultado01
 }
-var resultado = texto()
+var resultado = texto(oracion, palabra)
 console.log(resultado)
