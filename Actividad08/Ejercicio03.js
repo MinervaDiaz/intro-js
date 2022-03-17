@@ -13,9 +13,9 @@ function buscarPalíndromos(word){
       return 'No es palíndromo'
    }
 }
-
-var resultado = buscarPalíndromos("compu")
+var resultado = buscarPalíndromos("anita")
 console.log(resultado)
+
 
 
 

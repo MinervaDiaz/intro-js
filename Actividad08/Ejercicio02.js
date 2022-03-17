@@ -12,6 +12,7 @@ encuentra la suma de sus elementos */
         }
         return suma;
     }
+    
     var numbers = [1,2,3,4,10,11]
     var resultadoSuma = sumaDeElementosDeUnArreglo(numbers)
     console.log("La suma de los elementos del arreglo es: "+resultadoSuma)
